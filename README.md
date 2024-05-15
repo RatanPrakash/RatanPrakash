@@ -2,10 +2,10 @@
 
 #I'm Ratan Prakash - I'm learning ML/AI
 
-🔭 I’m currently working on Python, Jupyter
+🔭 I’m currently working on Python, C++
 - 🌱 I’m currently learning DS Algo
-- 🤔 I’m looking for help with your mom
-- 💬 Ask me about who's your reak dad
-- 📫 How to reach me: Ask your sis
-- 😄 Pronouns: Xe/Xim
-- ⚡ Fun fact: I'm gay
+- 🤔 I’m looking for help with WebDev and DevOps
+- 💬 Ask me about Prompt Engineering
+- 📫 How to reach me: through LinkedIn (Just search the full name)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm an Army Brat and been through almost entire India and lived in different parts of same. 
